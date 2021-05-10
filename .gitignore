@@ -12,7 +12,6 @@ src/transformers/data/processors/__pycache__
 src/transformers/__pycache__
 src/transformers.egg-info
 Output/
-models/
 Dataset/5/
 kmerCompleteData.csv
 Dataset_Complete.csv
@@ -20,3 +19,4 @@ testData.csv
 trainData.csv
 valData.csv
 Kmer_data.csv
+*.zip
