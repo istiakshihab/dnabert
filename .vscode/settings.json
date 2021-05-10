@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/home/mr/miniconda3/envs/dnabert/bin/python",
+    "python.formatting.provider": "yapf"
+}
