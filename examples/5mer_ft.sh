@@ -1,5 +1,5 @@
 export KMER=5
-export MODEL_PATH=../models/5-new-12w-0
+export MODEL_PATH=../models/5-new-12w-0/
 export DATA_PATH=../Dataset/$KMER/start/
 export OUTPUT_PATH=../Output/$KMER/start/
 
