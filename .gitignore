@@ -12,7 +12,10 @@ src/transformers/data/processors/__pycache__
 src/transformers/__pycache__
 src/transformers.egg-info
 Output/
-Dataset/5/
+Dataset/5/train.tsv
+Dataset/5/dev.tsv
+Dataset/5/dev(40kElem).tsv
+Dataset/5/test(40kElem).tsv
 kmerCompleteData.csv
 Dataset_Complete.csv
 testData.csv
